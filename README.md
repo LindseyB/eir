@@ -2,6 +2,8 @@
 
 ![Menglöð sits with the nine maidens, including Eir, on Lyfjaberg (1893) by Lorenz Frølich.](https://upload.wikimedia.org/wikipedia/commons/3/36/Mengl%C3%B6%C3%B0_and_Nine_Maidens_by_Froelich.jpg)
 
+[Chakra UI](https://chakra-ui.com/getting-started)
+
 ## Available Scripts
 
 In the project directory, you can run:
