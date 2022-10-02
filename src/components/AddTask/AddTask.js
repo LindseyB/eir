@@ -1,4 +1,5 @@
-import { Button,
+import {
+  Button,
   FormControl,
   FormErrorMessage,
   FormLabel,
@@ -12,7 +13,7 @@ import { Button,
   ModalCloseButton,
   useDisclosure,
 } from '@chakra-ui/react'
-
+import { AddIcon } from '@chakra-ui/icons'
 import { Field, Form, Formik } from 'formik';
 
 function AddTask() {
@@ -51,11 +52,12 @@ function AddTask() {
             </Field>
             <Button
               mt={4}
-              colorScheme='teal'
+              colorScheme='purple'
               isLoading={props.isSubmitting}
               type='submit'
             >
-              Submit
+              <AddIcon mr={2} />
+              Add
             </Button>
           </Form>
         )}
