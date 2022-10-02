@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Eir
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+!Menglöð sits with the nine maidens, including Eir, on Lyfjaberg (1893) by Lorenz Frølich.](https://upload.wikimedia.org/wikipedia/commons/3/36/Mengl%C3%B6%C3%B0_and_Nine_Maidens_by_Froelich.jpg)
 
 ## Available Scripts
 
