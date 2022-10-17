@@ -1,3 +1,5 @@
+Not totally abandoned yet but I'm actually using a [notion template](https://www.notion.so/Simple-Recurring-Task-Dates-2020-01101ca280f74efb937488d468ffbaac) right now to achieve exactly what the goal of this was. So, maybe I'll just tinker on this when I'm bored. 
+
 # Eir
 
 ![Menglöð sits with the nine maidens, including Eir, on Lyfjaberg (1893) by Lorenz Frølich.](https://upload.wikimedia.org/wikipedia/commons/3/36/Mengl%C3%B6%C3%B0_and_Nine_Maidens_by_Froelich.jpg)
